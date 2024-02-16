@@ -28,8 +28,7 @@
 
     - 큐 : First In First Out(FIFO)
 
-    ![queue](https://raw.githubusercontent.com/MsgIsJmt/ds-and-algorithm-2024/main/images/queue.png)
-
+    ![queue](https://raw.githubusercontent.com/MsgIsJmt/ds-and-alglorithm-2024/main/images/queue.png)
 
 ## 4일차
 - 파이썬 자료구조
