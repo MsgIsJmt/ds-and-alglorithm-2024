@@ -30,6 +30,7 @@
 
     ![queue](https://raw.githubusercontent.com/MsgIsJmt/ds-and-alglorithm-2024/main/images/queue.png)
 
+
 ## 4일차
 - 파이썬 자료구조
     - 큐 다시
@@ -40,11 +41,13 @@
 ## 5일차
 - 파이썬 자료구조/알고리즘
     - 그래프
-    - 재귀호출
-    - 정렬
-    - 검색
 
-## 6일차
+    ![그래프개념](https://raw.githubusercontent.com/MsgIsJmt/ds-and-alglorithm-2024/main/images/graph02.png)
+
+## 6일차 (24.02.19)
+- 파이썬 자료구조/알고리즘
+    - 검색
+- 코딩테스트
 
 ## 7일차
 
